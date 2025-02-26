@@ -1,0 +1,67 @@
+.portfolio-container {
+    padding: 4rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .portfolio-title {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #800814; /* or any accent color */
+    font-size: 2.5rem;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1rem;
+  }
+  
+  .album-card {
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+  }
+  
+  .album-card:hover {
+    transform: scale(1.02);
+  }
+  
+  .album-card img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+    border-radius: 8px;
+  }
+  
+  .album-card:hover img {
+    transform: scale(1.05);
+  }
+  
+  /* Overlay for album title on hover */
+  .album-overlay {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .album-card:hover .album-overlay {
+    opacity: 1;
+  }
+  
+  .album-overlay h3 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  

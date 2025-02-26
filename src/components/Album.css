@@ -1,0 +1,33 @@
+/* src/components/Album.css */
+
+/* Similar black background, white text */
+.album-page {
+    background-color: #000;
+    color: #fff;
+    min-height: 100vh;
+    padding: 2rem;
+  }
+  .album-div {
+    margin-top: 5rem;
+  }
+  .album-title {
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: 'SugarMagic', sans-serif;
+    margin-bottom: 2rem;
+  }
+  
+  .album-photo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1rem;
+  }
+  
+  .album-photo-grid img {
+    width: 100%;
+    /* 1:1 for squares, or pick another ratio (e.g., 3/4) */
+    aspect-ratio: 3 / 4;  
+    object-fit: cover;  
+    display: block;
+  }
+  

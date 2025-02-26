@@ -1,0 +1,56 @@
+/* src/components/About.css */
+
+/* Container for the About page */
+.about-page {
+    background-color: #000;
+    color: #fff;
+    min-height: 100vh;
+  }
+  
+  /* Big photo section */
+  .about-photo {
+    width: 100%;
+    margin-top: 5rem;
+    height: 70vh; /* Adjust the height as needed */
+    background-image: url('C:/Users/Admin/fashion-portfolio/public/images/painting.jpg'); /* Place your big photo here */
+    background-size: cover;
+    background-position: top;
+  }
+  
+  /* Content below the photo */
+  .about-content {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .about-content h2 {
+    font-family: 'SugarMagic', sans-serif;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .about-content p {
+    font-size: 1.1rem;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  
+  /* Social links styling */
+  .social-links {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+  }
+  
+  .social-links a {
+    color: #fff;
+    font-size: 2rem;
+    transition: color 0.3s ease;
+  }
+  
+  .social-links a:hover {
+    color: #800814; /* Accent color on hover */
+  }
+  

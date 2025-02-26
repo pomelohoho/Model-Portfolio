@@ -1,0 +1,66 @@
+.hero {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* fill the full viewport height */
+    background-image: url("C:/Users/Admin/fashion-portfolio/public/images/album3/Flores.JPG"); /* black-and-white image in public/images/hero.jpg */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  /* Dark overlay */
+  .hero::after {
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4);
+  }
+  
+  /* Text container above the overlay */
+  .hero-text {
+    position: relative; 
+    z-index: 1; /* above the overlay */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .hero-text h1 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'SugarMagic', sans-serif;
+  }
+  
+  /* Nav links in the hero */
+  .hero-nav a {
+    margin: 0 1rem;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1.1rem;
+    transition: color 0.3s ease;
+  }
+  
+  .hero-nav a:hover {
+    color: #800814; /* your main hex color */
+  }
+  
+  /* Responsiveness */
+  @media (max-width: 768px) {
+    .hero-text h1 {
+      font-size: 2rem;
+    }
+    .hero-nav a {
+      display: inline-block;
+      margin: 0.5rem;
+    }
+  }
+  

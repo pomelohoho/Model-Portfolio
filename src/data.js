@@ -15,13 +15,13 @@ export const albums = [
       title: "Hanoi by Night",
       thumbnail: "images/album2/HanoiNight.JPG",
       images: ["images/album2/HanoiNight.JPG", 
-        "images/album2/HanoiNight-1.JPG", 
+        "images/album2/HanoiNIght-1.JPG", 
         "images/album2/HanoiNight-2.JPG",
         "images/album2/HanoiNight-3.JPG",
-        "images/album2/HanoiNight-4.JPG",
+        "images/album2/HanoiNIght-4.JPG",
         "images/album2/HanoiNight-5.JPG",
-        "images/album2/HanoiNight-6.JPG",
-        "images/album2/HanoiNight-7.JPG",]
+        "images/album2/HanoiNIght-6.JPG",
+        "images/album2/HanoiNIght-7.JPG",]
     },
     {
       id: 3,

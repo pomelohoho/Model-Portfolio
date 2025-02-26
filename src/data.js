@@ -61,7 +61,7 @@ export const albums = [
       title: "Winter Waltz",
       thumbnail: "images/album6/WinterWaltz2024.JPG",
       images: ["images/album6/WinterWaltz2024.JPG",
-        "images/album6/WinterWaltz2024-1.jpg",
+        "images/album6/WinterWaltz2024-1.JPG",
         "images/album6/WinterWaltz2024-2.jpg",
         "images/album6/WinterWaltz2024-3.jpg",
         "images/album6/WinterWaltz2024-4.JPG"

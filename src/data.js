@@ -14,7 +14,7 @@ export const albums = [
     {
       id: 2,
       title: "Hanoi by Night",
-      thumbnail: "https://github.com/pomelohoho/Model-Portfolio/blob/b309dab97a9d3e5791a203305e7a1e30e43a537b/images/album2/HanoiNight.JPG",
+      thumbnail: "https://1drv.ms/i/c/6bd65025459b6028/Ebd1jffMnopFmmfIGcGb04gBCz88hk5bH447A3ICUjEcrQ?e=XPrM5K",
       images: ["https://github.com/pomelohoho/Model-Portfolio/blob/b309dab97a9d3e5791a203305e7a1e30e43a537b/images/album2/HanoiNight.JPG", 
         "https://github.com/pomelohoho/Model-Portfolio/blob/b309dab97a9d3e5791a203305e7a1e30e43a537b/images/album2/HanoiNIght-1.JPG", 
         "https://github.com/pomelohoho/Model-Portfolio/blob/b309dab97a9d3e5791a203305e7a1e30e43a537b/images/album2/HanoiNight-2.JPG",
@@ -27,7 +27,7 @@ export const albums = [
     {
       id: 3,
       title: "Flores",
-      thumbnail: "https://github.com/pomelohoho/Model-Portfolio/blob/b309dab97a9d3e5791a203305e7a1e30e43a537b/images/album3/Flores.JPG",
+      thumbnail: "images/album1/LunarNewYear2025-1.JPG",
       images: ["https://github.com/pomelohoho/Model-Portfolio/blob/b309dab97a9d3e5791a203305e7a1e30e43a537b/images/album3/Flores.JPG", 
         "https://github.com/pomelohoho/Model-Portfolio/blob/b309dab97a9d3e5791a203305e7a1e30e43a537b/images/album3/Flores-1.jpg",
         "https://github.com/pomelohoho/Model-Portfolio/blob/b309dab97a9d3e5791a203305e7a1e30e43a537b/images/album3/Flores-2.jpg",

@@ -2,7 +2,7 @@ export const albums = [
     {
       id: 1,
       title: "Lunar New Year",
-      thumbnail: "https://github.com/pomelohoho/Model-Portfolio/blob/b309dab97a9d3e5791a203305e7a1e30e43a537b/images/album1/LunarNewYear2025.JPG",
+      thumbnail: "https://drive.google.com/drive/folders/1J_y0ckLjCALr3s3Qs4Reshy4S4_Bug0K?usp=sharing",
       images: ["https://github.com/pomelohoho/Model-Portfolio/blob/b309dab97a9d3e5791a203305e7a1e30e43a537b/images/album1/LunarNewYear2025.JPG", 
         "https://github.com/pomelohoho/Model-Portfolio/blob/b309dab97a9d3e5791a203305e7a1e30e43a537b/images/album1/LunarNewYear2025-2.JPG",
         "https://github.com/pomelohoho/Model-Portfolio/blob/b309dab97a9d3e5791a203305e7a1e30e43a537b/images/album1/LunarNewYear2025-1.JPG",

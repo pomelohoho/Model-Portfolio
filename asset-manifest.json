@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Model-Portfolio/static/css/main.4599c914.css",
-    "main.js": "/Model-Portfolio/static/js/main.7b3fb0aa.js",
+    "main.js": "/Model-Portfolio/static/js/main.540e9d8e.js",
     "static/js/453.d90a1a70.chunk.js": "/Model-Portfolio/static/js/453.d90a1a70.chunk.js",
     "static/media/Flores.JPG": "/Model-Portfolio/static/media/Flores.7ec18c0b7b8602426c63.JPG",
     "static/media/painting.jpg": "/Model-Portfolio/static/media/painting.1089c2d44755ec2c119c.jpg",
@@ -9,11 +9,11 @@
     "static/media/sugarmagicpersonaluseonly-jemyo.otf": "/Model-Portfolio/static/media/sugarmagicpersonaluseonly-jemyo.3a64b7ca3cc24199b4d5.otf",
     "index.html": "/Model-Portfolio/index.html",
     "main.4599c914.css.map": "/Model-Portfolio/static/css/main.4599c914.css.map",
-    "main.7b3fb0aa.js.map": "/Model-Portfolio/static/js/main.7b3fb0aa.js.map",
+    "main.540e9d8e.js.map": "/Model-Portfolio/static/js/main.540e9d8e.js.map",
     "453.d90a1a70.chunk.js.map": "/Model-Portfolio/static/js/453.d90a1a70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4599c914.css",
-    "static/js/main.7b3fb0aa.js"
+    "static/js/main.540e9d8e.js"
   ]
 }

@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import HeroSection from "./components/HeroSection";
 import Navbar from "./components/Navbar";
 import Gallery from "./components/Gallery";
@@ -12,7 +12,7 @@ import "./App.css"; // global styles
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Model-Portfolio">
       <Routes>
         {/* Landing Page (Hero) */}
         <Route path="/" element={<HeroSection />} />
@@ -52,7 +52,6 @@ function App() {
             </>
           } 
         />
-
         <Route 
           path="/blog" 
           element={

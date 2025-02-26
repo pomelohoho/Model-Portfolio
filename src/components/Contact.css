@@ -13,7 +13,7 @@
   /* Left side: big photo as background */
   .contact-left {
     flex: 1; /* take half the screen (or as much as needed) */
-    background: url("images/album2/HanoiNight-2.JPG") no-repeat center center;
+    background: url('images/album2/HanoiNight-2.JPG') no-repeat center center;
     background-size: cover;
   }
   

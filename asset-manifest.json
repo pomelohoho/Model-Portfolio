@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Model-Portfolio/static/css/main.95dc26bf.css",
-    "main.js": "/Model-Portfolio/static/js/main.74ab4414.js",
+    "main.css": "/Model-Portfolio/static/css/main.964fc209.css",
+    "main.js": "/Model-Portfolio/static/js/main.c5edd12d.js",
     "static/js/453.d90a1a70.chunk.js": "/Model-Portfolio/static/js/453.d90a1a70.chunk.js",
     "static/media/Flores.JPG": "/Model-Portfolio/static/media/Flores.7ec18c0b7b8602426c63.JPG",
+    "static/media/HanoiNight-2.JPG": "/Model-Portfolio/static/media/HanoiNight-2.2d57a4078cbbf39bbc78.JPG",
     "static/media/sugarmagicpersonaluseonly-jemyo.otf": "/Model-Portfolio/static/media/sugarmagicpersonaluseonly-jemyo.3a64b7ca3cc24199b4d5.otf",
     "index.html": "/Model-Portfolio/index.html",
-    "main.95dc26bf.css.map": "/Model-Portfolio/static/css/main.95dc26bf.css.map",
-    "main.74ab4414.js.map": "/Model-Portfolio/static/js/main.74ab4414.js.map",
+    "main.964fc209.css.map": "/Model-Portfolio/static/css/main.964fc209.css.map",
+    "main.c5edd12d.js.map": "/Model-Portfolio/static/js/main.c5edd12d.js.map",
     "453.d90a1a70.chunk.js.map": "/Model-Portfolio/static/js/453.d90a1a70.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95dc26bf.css",
-    "static/js/main.74ab4414.js"
+    "static/css/main.964fc209.css",
+    "static/js/main.c5edd12d.js"
   ]
 }

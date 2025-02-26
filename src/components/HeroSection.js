@@ -12,7 +12,7 @@ function HeroSection() {
             <Link to="/gallery">GALLERY</Link>
             <Link to="/about">ABOUT</Link>
             <Link to="/contact">CONTACT</Link>
-            <Link to="https://pomelohoho.github.io/Pom-Full-stack-developer-portfolio/">SEE SWE PORTFOLIO</Link>
+            {/* <Link to="https://pomelohoho.github.io/Pom-Full-stack-developer-portfolio/">SEE SWE PORTFOLIO</Link> */}
         </nav>
       </div>
     </div>

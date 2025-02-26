@@ -37,7 +37,7 @@ export const albums = [
     },
     {
       id: 4,
-      title: "Jeans&Roses",
+      title: "JeansnRoses",
       thumbnail: "images/album4/JeanRoses.JPG",
       images: ["images/album4/JeanRoses.JPG", 
         "images/album4/JeanRoses-1.JPG",
@@ -63,7 +63,7 @@ export const albums = [
       images: ["images/album6/WinterWaltz2024.JPG",
         "images/album6/WinterWaltz2024-1.jpg",
         "images/album6/WinterWaltz2024-2.jpg",
-        "images/album6/WinterWaltz2024-3.JPG",
+        "images/album6/WinterWaltz2024-3.jpg",
         "images/album6/WinterWaltz2024-4.JPG"
       ]
     },
@@ -113,8 +113,8 @@ export const albums = [
       title: "Dance",
       thumbnail: "images/album11/Dance.JPG",
       images: ["images/album11/Dance.JPG",
-        "images/album11/Dance-1.jpg",
-        "images/album11/Dance-2.JPG"
+        "images/album11/Dance-1.JPG",
+        "images/album11/Dance-2.jpg"
       ]
     },
     {

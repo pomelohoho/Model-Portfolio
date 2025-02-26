@@ -13,7 +13,7 @@
   /* Left side: big photo as background */
   .contact-left {
     flex: 1; /* take half the screen (or as much as needed) */
-    background: url('C:/Users/Admin/fashion-portfolio/public/images/album2/HanoiNight-2.JPG') no-repeat center center;
+    background: url("https://github.com/pomelohoho/Model-Portfolio/blob/b309dab97a9d3e5791a203305e7a1e30e43a537b/images/album2/HanoiNight-2.JPG") no-repeat center center;
     background-size: cover;
   }
   

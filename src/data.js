@@ -2,13 +2,13 @@ export const albums = [
     {
       id: 1,
       title: "Lunar New Year",
-      thumbnail: "/images/album1/LunarNewYear2025.JPG",
+      thumbnail: "https://www.imgacademy.com/sites/default/files/img-academy-performance-center.jpg",
       images: ["/images/album1/LunarNewYear2025.JPG", 
         "https://github.com/pomelohoho/Model-Portfolio/blob/4edf4aa44d973bfbf532b09fa5a1eb6089709ac8/public/images/album1/LunarNewYear2025-1.JPG",
-        "/images/album1/LunarNewYear2025-2.JPG",
-        "/images/album1/LunarNewYear2025-3.JPG",
-        "/images/album1/LunarNewYear2025-4.JPG",
-        "/images/album1/LunarNewYear2025-5.JPG"]
+        "https://github.com/pomelohoho/Model-Portfolio/blob/7ca24b2fd6fca32c954e93303abf1ab56e32d18b/public/images/album1/LunarNewYear2025-2.JPG",
+        "https://github.com/pomelohoho/Model-Portfolio/blob/7ca24b2fd6fca32c954e93303abf1ab56e32d18b/public/images/album1/LunarNewYear2025-3.JPG",
+        "https://github.com/pomelohoho/Model-Portfolio/blob/7ca24b2fd6fca32c954e93303abf1ab56e32d18b/public/images/album1/LunarNewYear2025-4.JPG",
+        "https://github.com/pomelohoho/Model-Portfolio/blob/7ca24b2fd6fca32c954e93303abf1ab56e32d18b/public/images/album1/LunarNewYear2025-5.JPG"]
     },
     {
       id: 2,

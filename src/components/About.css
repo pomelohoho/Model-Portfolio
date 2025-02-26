@@ -12,7 +12,7 @@
     width: 100%;
     margin-top: 5rem;
     height: 70vh; /* Adjust the height as needed */
-    background-image: url('C:/Users/Admin/fashion-portfolio/public/images/painting.jpg'); /* Place your big photo here */
+    background-image: url("https://github.com/pomelohoho/Model-Portfolio/blob/a5d9780f9545ac511bc7c5b7570e769ea7b56eec/images/painting.jpg"); /* Place your big photo here */
     background-size: cover;
     background-position: top;
   }

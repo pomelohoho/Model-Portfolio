@@ -53,7 +53,7 @@ function App() {
           } 
         />
         <Route 
-          path="/blog" 
+          path="https://pomelohoho.github.io/Pom-Full-stack-developer-portfolio/" 
           element={
             <>
               <Navbar />

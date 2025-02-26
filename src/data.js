@@ -2,7 +2,7 @@ export const albums = [
     {
       id: 1,
       title: "Lunar New Year",
-      thumbnail: "https://www.imgacademy.com/sites/default/files/img-academy-performance-center.jpg",
+      thumbnail: "public/images/album1/LunarNewYear2025-1.JPG",
       images: ["/images/album1/LunarNewYear2025.JPG", 
         "https://github.com/pomelohoho/Model-Portfolio/blob/4edf4aa44d973bfbf532b09fa5a1eb6089709ac8/public/images/album1/LunarNewYear2025-1.JPG",
         "https://github.com/pomelohoho/Model-Portfolio/blob/7ca24b2fd6fca32c954e93303abf1ab56e32d18b/public/images/album1/LunarNewYear2025-2.JPG",
@@ -13,7 +13,7 @@ export const albums = [
     {
       id: 2,
       title: "Hanoi by Night",
-      thumbnail: "/images/album2/HanoiNight.JPG",
+      thumbnail: "C:/Users/Admin/fashion-portfolio/public/images/album1/LunarNewYear2025-1.JPG",
       images: ["/images/album2/HanoiNight.JPG", 
         "/images/album2/HanoiNight-1.JPG", 
         "/images/album2/HanoiNight-2.JPG",
@@ -26,7 +26,7 @@ export const albums = [
     {
       id: 3,
       title: "Flores",
-      thumbnail: "/images/album3/Flores.JPG",
+      thumbnail: "images/album1/LunarNewYear2025-1.JPG",
       images: ["/images/album3/Flores.JPG", 
         "/images/album3/Flores-1.jpg",
         "/images/album3/Flores-2.jpg",
@@ -38,7 +38,7 @@ export const albums = [
     {
       id: 4,
       title: "Jeans&Roses",
-      thumbnail: "/images/album4/JeanRoses.JPG",
+      thumbnail: "https://github.com/pomelohoho/Model-Portfolio/blob/89d2c383d4af59cac58202cd41a85a4d80934e40/images/album1/LunarNewYear2025-1.JPG",
       images: ["/images/album4/JeanRoses.JPG", 
         "/images/album4/JeanRoses-1.JPG",
         "/images/album4/JeanRoses-2.PNG",

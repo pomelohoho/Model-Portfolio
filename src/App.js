@@ -51,15 +51,6 @@ function App() {
               <Contact />
             </>
           } 
-        />
-        <Route 
-          path="https://pomelohoho.github.io/Pom-Full-stack-developer-portfolio/" 
-          element={
-            <>
-              <Navbar />
-              <Blog />
-            </>
-          } 
         />      
       </Routes>
     </Router>

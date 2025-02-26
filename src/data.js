@@ -4,7 +4,7 @@ export const albums = [
       title: "Lunar New Year",
       thumbnail: "/images/album1/LunarNewYear2025.JPG",
       images: ["/images/album1/LunarNewYear2025.JPG", 
-        "/images/album1/LunarNewYear2025-1.JPG",
+        "https://github.com/pomelohoho/Model-Portfolio/blob/4edf4aa44d973bfbf532b09fa5a1eb6089709ac8/public/images/album1/LunarNewYear2025-1.JPG",
         "/images/album1/LunarNewYear2025-2.JPG",
         "/images/album1/LunarNewYear2025-3.JPG",
         "/images/album1/LunarNewYear2025-4.JPG",

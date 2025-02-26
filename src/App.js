@@ -12,7 +12,7 @@ import "./App.css"; // global styles
 
 function App() {
   return (
-    <Router basename="/Model-Portfolio">
+    <Router>
       <Routes>
         {/* Landing Page (Hero) */}
         <Route path="/" element={<HeroSection />} />
